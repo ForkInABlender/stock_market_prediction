@@ -1,3 +1,13 @@
+# Dylan Kenneth Eliot
+
+"""
+This is the pytorch example, which the pybrain3 on is templated from.
+
+Both have been tested manually. This one, because torch is bloatware, will not be used in production code, unlike pybrain3.
+
+"""
+
+
 import yfinance as yf
 import pandas as pd
 import numpy as np
