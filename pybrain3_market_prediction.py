@@ -1,3 +1,10 @@
+# Dylan Kenneth Eliot
+
+"""
+This allows for a higher degree of accuracy via pybrain3 on what you're going to get, win or lose, on stock market value.
+
+"""
+
 import yfinance as yf
 import pandas as pd
 import numpy as np
